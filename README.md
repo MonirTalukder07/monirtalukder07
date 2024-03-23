@@ -6,15 +6,15 @@
 
 As an IT Professional, I focus on building and maintaining strong IT infrastructures. Known for excellent customer support and successful project management, I quickly solve complex issues to boost productivity. Skilled in providing top-notch service for support needs.
 
-#####Proficiencies and Specializations"
+Proficiencies and Specializations"
 
-###Skills:
+Skills:
 
 ✅System Administration
 ✅Networking
 ✅Cybersecurity
 
-###Expertise:
+Expertise:
 ✅Windows and Linux Server Management
 ✅MikroTik and Cisco Router Configuration and Troubleshooting
 
