@@ -17,4 +17,4 @@ Proficiencies and Specializations:
 
 ✅Windows and Linux Server Management
 
-✅MikroTik and Cisco Router Configuration and Troubleshooting
+✅MikroTik and Cisco Router and Switches Configuration and Troubleshooting
