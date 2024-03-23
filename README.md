@@ -9,9 +9,14 @@ As an IT Professional, I focus on building and maintaining strong IT infrastruct
 Proficiencies and Specializations:
 
 ✅System Administration
+
 ✅Networking
+
 ✅Cybersecurity
+
 ✅Windows and Linux Server Management
+
 ✅MikroTik and Cisco Router Configuration and Troubleshooting
+
 
 💼I’m currently working at Increments Inc. as an IT Support Specialist
