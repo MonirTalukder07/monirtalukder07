@@ -1,15 +1,19 @@
-#### Hi there 👋
+(https://pbs.twimg.com/profile_images/1210569213057720320/0ZSAfqb1_400x400.jpg)
+
+### Hi there 👋, I am Md. Monir Talukder
+#### IT Professional
+![IT Professional]
+
+As an IT Professional, I focus on building and maintaining strong IT infrastructures. Known for excellent customer support and successful project management, I quickly solve complex issues to boost productivity. Skilled in providing top-notch service for support needs.
+
+Skills: CCNA, MCT, MCSE, RHCSA, DevNet
+
+- 🔭 I’m currently working on Increments Inc. 
 
 
-**monirtalukder07/monirtalukder07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/monirtalukder07)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/monirtalukder07//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://www.facebook.com/monirtalukder07)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/https://twitter.com/monirtalukder07)  
 
-Here are some ideas to get you started:
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=https://github.com/monirtalukder07&show_icons=true)  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+![GitHub streak stats](https://streak-stats.demolab.com/?user=https://github.com/monirtalukder07)  
+
