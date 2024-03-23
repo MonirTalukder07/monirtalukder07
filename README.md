@@ -1,4 +1,3 @@
-(https://pbs.twimg.com/profile_images/1210569213057720320/0ZSAfqb1_400x400.jpg)
 
 ### Hi there 👋, I am Md. Monir Talukder
 #### IT Professional
@@ -12,8 +11,4 @@ Skills: CCNA, MCT, MCSE, RHCSA, DevNet
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/monirtalukder07)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/monirtalukder07//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://www.facebook.com/monirtalukder07)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/https://twitter.com/monirtalukder07)  
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=https://github.com/monirtalukder07&show_icons=true)  
-
-![GitHub streak stats](https://streak-stats.demolab.com/?user=https://github.com/monirtalukder07)  
 
