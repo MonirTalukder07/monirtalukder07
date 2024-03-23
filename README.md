@@ -18,4 +18,4 @@ As an IT Professional, I focus on building and maintaining strong IT infrastruct
 
 ✅Windows and Linux Server Management
 
-✅MikroTik and Cisco Router and Switches Configuration and Troubleshooting
+✅MikroTik/Cisco/Juniper/UniFi-Mesh Router and Switches Configuration and Troubleshooting
